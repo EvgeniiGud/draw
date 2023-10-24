@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T18:39:04.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="YLDHDFWbK9fiyP_S2xeh" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T18:40:53.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="VMaZCFcB79vKUzWQQD2z" version="22.0.7" type="github">
   <diagram name="Страница — 1" id="HV1xr7kACfmK--PHIMH8">
     <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbdDRWzfz0w073XtA8N0-7" value="admins&lt;br&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; НЕТ&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;ДА&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="200" width="130" height="70" as="geometry" />
+          <mxGeometry x="570" y="190" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fbdDRWzfz0w073XtA8N0-16" value="table base (&lt;b&gt;authUsers&lt;/b&gt;)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="600" width="180" height="180" as="geometry">
@@ -64,10 +64,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-10" value="&lt;div&gt;Запрос данных&lt;/div&gt;&lt;div&gt;(email или телефон)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="575" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-13" value="Внесенни" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="575" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cB9tNOrdEAfvo9i-5LgS-3" target="cB9tNOrdEAfvo9i-5LgS-3">
           <mxGeometry relative="1" as="geometry" />
