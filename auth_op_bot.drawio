@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T19:19:47.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="z_EzvdvMwtqqh9PrpcO9" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T19:20:31.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="6S_Guq7WgXNSEOKVtUzD" version="22.0.7" type="github">
   <diagram name="Страница — 1" id="HV1xr7kACfmK--PHIMH8">
     <mxGraphModel dx="2336" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,8 +125,8 @@
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-28" value="&lt;div&gt;Вот тут вопрос потому что&lt;/div&gt;&lt;div&gt;в бд нет такого пользователя&lt;/div&gt;&lt;div&gt;и нам изначально нечего проверять!&lt;/div&gt;&lt;div&gt;Тогда на момент нажатия кнопки старт нужно&lt;/div&gt;&lt;div&gt;добавлять человека в бд только с тг ид&amp;nbsp;&lt;/div&gt;&lt;div&gt;и присваивать ему статус не зарегистрированый&amp;nbsp; &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-380" y="70" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cB9tNOrdEAfvo9i-5LgS-32" value="&lt;div&gt;Отсюда возникает вопрос&amp;nbsp;&lt;/div&gt;&lt;div&gt;а надо на это вообще&lt;/div&gt;&lt;div&gt;И нужен ли нам статус не зарегистрированный&lt;/div&gt;&lt;div&gt;И можно во время проверки админом просто &lt;br&gt;&lt;/div&gt;&lt;div&gt;добавить кнопку в ожидании&amp;nbsp;&lt;/div&gt;&lt;div&gt;и хранить таких пользователей там&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="10" width="290" height="100" as="geometry" />
+        <mxCell id="cB9tNOrdEAfvo9i-5LgS-32" value="&lt;div&gt;Отсюда возникает вопрос&amp;nbsp;&lt;/div&gt;&lt;div&gt;а надо на это вообще&lt;/div&gt;&lt;div&gt;И нужен ли нам статус не зарегистрированный&lt;/div&gt;&lt;div&gt;И можно во время проверки админом просто &lt;br&gt;&lt;/div&gt;&lt;div&gt;добавить кнопку в ожидании&amp;nbsp;&lt;/div&gt;&lt;div&gt;и хранить таких пользователей со статусом &lt;br&gt;&lt;/div&gt;&lt;div&gt;в ожидании&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="5" width="290" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
