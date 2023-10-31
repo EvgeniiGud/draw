@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T18:29:22.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9713cxv-PNHDQmVqNiPp" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T18:30:09.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Idx1atxJkaeM3nhX1-4Z" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -469,7 +469,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FgXQiMKHyaYpMF4QYQYK-103" value="Уточнить у Жени сколько&lt;br&gt;&amp;nbsp;вопросов должно быть в протоколе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="590" y="410" width="220" height="40" as="geometry" />
+          <mxGeometry x="580" y="350" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FgXQiMKHyaYpMF4QYQYK-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.506;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FgXQiMKHyaYpMF4QYQYK-103" target="uHSggtzzj-TzrtZx3VIX-79" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -506,10 +506,10 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxLdpLvkgqw4IY-beAeH-41" value="Список вопросов для протокола/акта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="460" width="230" height="30" as="geometry" />
+        <mxCell id="pxLdpLvkgqw4IY-beAeH-41" value="Список вопросов &lt;br&gt;для протокола/акта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="425" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxLdpLvkgqw4IY-beAeH-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.521;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pxLdpLvkgqw4IY-beAeH-26">
+        <mxCell id="pxLdpLvkgqw4IY-beAeH-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.521;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxLdpLvkgqw4IY-beAeH-41" target="pxLdpLvkgqw4IY-beAeH-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="125.78999999999996" y="452.01" as="sourcePoint" />
             <mxPoint x="133.78999999999996" y="300.01" as="targetPoint" />
