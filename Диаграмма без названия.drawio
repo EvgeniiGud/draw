@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T18:14:18.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9kr9ykFr5VFLi36a6EDS" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T18:15:54.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AmSsMlBd-kSkrAA4qsW7" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -621,6 +621,15 @@
         <mxCell id="pxLdpLvkgqw4IY-beAeH-28" value="Question String" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pxLdpLvkgqw4IY-beAeH-26">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxLdpLvkgqw4IY-beAeH-41" value="Списк впоросов для протокла/акта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pxLdpLvkgqw4IY-beAeH-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.521;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pxLdpLvkgqw4IY-beAeH-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125.78999999999996" y="452.01" as="sourcePoint" />
+            <mxPoint x="133.78999999999996" y="300.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
