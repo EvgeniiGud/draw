@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T18:51:15.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fxNLOyfx7vW8Z08H07-l" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T18:52:08.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KF5A4UkdvDbAEt2xsUM0" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="SPHt7ZytzHKo-IP5oX0M">
     <mxGraphModel dx="697" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="XXswtY91_qXGHENN87gQ-13" value="&lt;b&gt;Создается Документ в БД&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="530" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-15" value="&amp;nbsp; Дата создается автоматически&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; Пользователь ТГ Ботом&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="XXswtY91_qXGHENN87gQ-15" value="&amp;nbsp; Номер документа&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; Дата создается автоматически&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; Пользователь ТГ Ботом&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="52" y="380" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XXswtY91_qXGHENN87gQ-17" value="&amp;nbsp; Гаражный номер&lt;br&gt;&amp;nbsp; Выбираем номер маршрута&lt;br&gt;&amp;nbsp; Выбираем нарушения (создается тип&amp;nbsp; лист)&lt;br&gt;&amp;nbsp; Выбор водителя&lt;br&gt;&amp;nbsp; Метка, согласен/не согласен&lt;br&gt;&amp;nbsp; Нажать кнопку сохранить" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
