@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T17:17:05.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="PWfNgaXHqjOxgfDC1MBY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T17:19:19.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4z6uXwVUpRicDp_ljCeo" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="SPHt7ZytzHKo-IP5oX0M">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XXswtY91_qXGHENN87gQ-1" value="&lt;div&gt;1. приходим в Таксамотроный Парк&amp;nbsp;&lt;/div&gt;&lt;div&gt;2 автобусы выходят на линию при выпуске из парка они проходят контроль в этот момент мы подходим, представляемся водителю проверяем документы! Дальше проверяем состояние автобуса! Находим нарушение&lt;/div&gt;&lt;div&gt;Составляем акт&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="570" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
