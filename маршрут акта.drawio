@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T18:04:30.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D0sZ--eY7K9gNV0r2vVT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T18:31:52.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1ywY15dTTMu80qzFEkLS" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="SPHt7ZytzHKo-IP5oX0M">
-    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,10 @@
         <mxCell id="XXswtY91_qXGHENN87gQ-1" value="&lt;div&gt;1. приходим в Таксамотроный Парк&amp;nbsp;&lt;/div&gt;&lt;div&gt;2 автобусы выходят на линию при выпуске из парка они проходят контроль в этот момент мы подходим, представляемся водителю проверяем документы! Дальше проверяем состояние автобуса! Находим нарушение&lt;/div&gt;&lt;div&gt;Составляем акт&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="570" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XXswtY91_qXGHENN87gQ-2" target="XXswtY91_qXGHENN87gQ-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XXswtY91_qXGHENN87gQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXswtY91_qXGHENN87gQ-2" target="XXswtY91_qXGHENN87gQ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XXswtY91_qXGHENN87gQ-2" value="открываем бота и в меню выбираем&lt;br&gt;&lt;b&gt;Документы -&amp;gt; Акт нарушений ТС&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="330" height="40" as="geometry" />
@@ -22,29 +24,20 @@
         <mxCell id="XXswtY91_qXGHENN87gQ-6" value="Если &lt;b&gt;ДА&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XXswtY91_qXGHENN87gQ-13" target="XXswtY91_qXGHENN87gQ-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XXswtY91_qXGHENN87gQ-13" value="&lt;b&gt;Создается Документ&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="270" width="160" height="30" as="geometry" />
+          <mxGeometry x="70" y="650" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XXswtY91_qXGHENN87gQ-15" target="XXswtY91_qXGHENN87gQ-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XXswtY91_qXGHENN87gQ-15" value="&amp;nbsp; Дата создается автоматически&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; Пользователь ТГ Ботом&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-15" value="1. Дата создается автоматически (время)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Пользователь ТГ Ботом&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="220" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XXswtY91_qXGHENN87gQ-17" target="XXswtY91_qXGHENN87gQ-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-17" value="3. Гаражный номер&lt;br&gt;4. выбираем номер маршрута&lt;br&gt;5. Выбираем нарушения (создается тип лист)&lt;br&gt;6. Метка, согласен/не согласен" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="410" width="220" height="110" as="geometry" />
+        <mxCell id="XXswtY91_qXGHENN87gQ-17" value="&amp;nbsp; Гаражный номер&lt;br&gt;&amp;nbsp; Выбираем номер маршрута&lt;br&gt;&amp;nbsp; Выбираем нарушения (создается&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;тип&amp;nbsp; лист)&lt;br&gt;&amp;nbsp;Нажать кнопку сохранить" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XXswtY91_qXGHENN87gQ-19" value="&lt;b&gt;Интерфейс&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXswtY91_qXGHENN87gQ-22" value="7. Сохранить -&amp;gt; передать в базу" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="540" width="220" height="90" as="geometry" />
+        <mxCell id="XXswtY91_qXGHENN87gQ-22" value="&amp;nbsp;Метка, согласен/не согласен&lt;br&gt;&amp;nbsp;Сохранить -&amp;gt; передать в базу" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
