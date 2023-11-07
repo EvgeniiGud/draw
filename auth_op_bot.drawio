@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T18:37:04.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qBHWAX17LsCDPfTxpHQm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T18:53:36.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uEfkOt7Dm2WtufpVi7Pe" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="HV1xr7kACfmK--PHIMH8">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbdDRWzfz0w073XtA8N0-7" value="&lt;div&gt;Проверка&lt;/div&gt;&lt;div&gt;админом&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="377.5" width="130" height="70" as="geometry" />
+          <mxGeometry x="-277.5" y="375" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fbdDRWzfz0w073XtA8N0-16" value="table base (&lt;b&gt;authUsers&lt;/b&gt;)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="600" width="180" height="180" as="geometry">
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-10" value="&lt;div&gt;Запрос данных&lt;/div&gt;&lt;div&gt;ФИО,&lt;/div&gt;&lt;div&gt;телефон&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="127.5" width="125" height="60" as="geometry" />
+          <mxGeometry x="-275" y="135" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cB9tNOrdEAfvo9i-5LgS-13" target="cB9tNOrdEAfvo9i-5LgS-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-13" value="&lt;div&gt;Определить роль,&lt;/div&gt;&lt;div&gt;Внести пользователя в бд со статусом&lt;/div&gt;&lt;div&gt;зарегестрирован&lt;/div&gt;&lt;div&gt;(reg)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="490" width="120" height="130" as="geometry" />
+          <mxGeometry x="-272.5" y="490" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cB9tNOrdEAfvo9i-5LgS-3" target="cB9tNOrdEAfvo9i-5LgS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="-216" y="442.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-26" value="&lt;div&gt;Оповестили его что вы успешно прошли рег. и что нужно делать чтобы пользоваться ботом&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="670" width="120" height="90" as="geometry" />
+          <mxGeometry x="-272.5" y="670" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cB9tNOrdEAfvo9i-5LgS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cB9tNOrdEAfvo9i-5LgS-28" target="cB9tNOrdEAfvo9i-5LgS-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNWt-A3fO8eAE6qAIu2x-13" value="&lt;div&gt;Занесение в бд&lt;/div&gt;&lt;div&gt;со статусом не подтвержденный&lt;/div&gt;&lt;div&gt;(unreg)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="217.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-272.5" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNWt-A3fO8eAE6qAIu2x-16" value="&lt;div&gt;Ответ пользователю&lt;/div&gt;&lt;div&gt;что ваша заявка&lt;/div&gt;&lt;div&gt;на рассмотрении &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-380" y="315" width="120" height="60" as="geometry" />
@@ -159,6 +159,15 @@
         </mxCell>
         <mxCell id="bhgiwxy8n1-WDYLIOc4l-3" value="Описание функционала бота (настраивается в Бот Фазере)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-4" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;start&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-448" y="15" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-6" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_to_reg_fio&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-152.5" y="135" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-8" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_to_reg_phone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-152.5" y="165" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
