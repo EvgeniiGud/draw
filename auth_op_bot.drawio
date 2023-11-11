@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T18:53:36.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uEfkOt7Dm2WtufpVi7Pe" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T06:57:05.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8-cBblg3Tmbtpc-DUGQu" version="22.1.0" type="github">
   <diagram name="Страница — 1" id="HV1xr7kACfmK--PHIMH8">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,17 +157,26 @@
         <mxCell id="dNWt-A3fO8eAE6qAIu2x-18" value="unreg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-450" y="315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bhgiwxy8n1-WDYLIOc4l-3" value="Описание функционала бота (настраивается в Бот Фазере)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-3" value="Описание функционала бота (настраивается в Бот Фазере)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bhgiwxy8n1-WDYLIOc4l-4" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;start&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-4" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;start&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-448" y="15" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bhgiwxy8n1-WDYLIOc4l-6" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_to_reg_fio&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-6" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_to_reg_fio&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-152.5" y="135" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bhgiwxy8n1-WDYLIOc4l-8" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_to_reg_phone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bhgiwxy8n1-WDYLIOc4l-8" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_to_reg_phone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-152.5" y="165" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__QaRKVqFbhTxgjkoACd-1" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_wait_to_admin_check_user&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="250" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__QaRKVqFbhTxgjkoACd-2" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_user_reg&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-152.5" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__QaRKVqFbhTxgjkoACd-3" value="&lt;font color=&quot;#cc00cc&quot;&gt;&lt;b&gt;request_user_unreg&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="572.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
